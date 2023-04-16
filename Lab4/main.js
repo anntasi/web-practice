@@ -66,7 +66,7 @@ $(function () {
 				if (mapArray[x][y] == 1) {	//Mountain
 					ctx.drawImage(
 						images.imgMountain,
-						65,
+						32,
 						65,
 						32,
 						32,
