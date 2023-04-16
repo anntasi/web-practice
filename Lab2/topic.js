@@ -10,8 +10,8 @@ function setMonthAndDay(startMonth, startDay) {
 	startDate.setSeconds(0);
     console.log(startDate);
 }
-
-function addTopic(index){
+setMonthAndDay(2,21);
+/*function addTopic(index){
 	// let topicCount = topic.length;
 	let millisecsPerDay = 24 * 60 * 60 * 1000;
 	$("#courseTable").append(
@@ -66,5 +66,5 @@ document.getElementById("dateInput").addEventListener("change", function () {
 	}
 
 });
-
-setMonthAndDay(2,21);
+*/
+// setMonthAndDay(2,21);
